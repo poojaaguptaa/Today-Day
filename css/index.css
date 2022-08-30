@@ -1,0 +1,46 @@
+html{
+    background-image: linear-gradient(to right top, #00388a, #38235d, #351536, #220d1a, #000000);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.box-bg {
+    width: 650px;
+    height: 350px;
+    background-image: linear-gradient(to right top, #000916, #000F38, #001330, #000916, #00192B);
+    margin: 100px auto;
+    border-radius: 30px;
+    box-shadow: 3px 0px 39px 5px rgba(255,255,255,1);
+}
+
+h1{
+    float: left;
+    width: 100%;
+    font-size: 30px;
+    font-weight: 600;
+    color: lightcoral;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+#weekday{
+    float: left;
+    width: 100%;
+    font-size: 80px;
+    color: aliceblue;
+    font-weight: 800;
+    text-align: center;
+    margin: 0;
+}
+#quotes {
+    float: left;
+    width: 100%;
+     font-size: 40px;
+    color: #7FCDCD;
+    font-weight: 800;
+    text-align: center;
+}
